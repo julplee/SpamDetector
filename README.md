@@ -1,9 +1,9 @@
 # SpamDetector
 
-- [Spam Detector Table of contents](#spam-detector-table-of-contents)
-  - [🎯 Goals](#user-content--goals)
-  - [📖 Rules](#user-content--What-to-know)
-  - [👩‍💻 What to do](#user-content--what-to-do)
+## Table of contents
+- [🎯 Goals](#user-content--goals)
+- [📖 Rules](#user-content--What-to-know)
+- [👩‍💻 What to do](#user-content--what-to-do)
 
 ## 🎯 Goals
 
